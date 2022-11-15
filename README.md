@@ -12,7 +12,7 @@ docker run \
 	--rm \
 	--volume $(pwd)/io:/root/io \
 	--env INPUT_IMG=input.svg \
-	pxjam/real-favicon-generator
+	pxjam/favicon-generator
 ```
 
 The output files goes to `io/output`.
