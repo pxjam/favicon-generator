@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"cli-real-favicon": "^0.0.8",
+		"svgo": "^3.0.1"
+	}
+}
